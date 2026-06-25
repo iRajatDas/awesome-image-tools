@@ -61,6 +61,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 ## Photo editors
 
+- [ClearCrowds](https://www.clearcrowds.com) `$` — Hosted AI photo cleanup for removing crowds, objects, glare, shadows, text and other distractions from photos. Upload required; free trial path with paid limits.
 - [GIMP](https://www.gimp.org) `OSS` — The long-standing free desktop alternative to Photoshop. Layers, masks, curves, scripting, the lot. Steep but complete.
 - [Krita](https://krita.org) `OSS` — Open-source painting and illustration studio. Built for digital art and brushwork, but a capable raster editor in general.
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
