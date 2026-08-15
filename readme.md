@@ -79,6 +79,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 ## Passport & ID photos
 
+- [DeerImage — ID photo maker](https://deerimage.com/tools/id-photo) 🔒 — Chinese-language maker with 16 common size, document and application presets, plus background color, DPI and target file-size controls. No account.
 - [IDPhotoDIY](https://www.idphotodiy.com) — Free browser tool with a large library of country and visa sizes, and a printable sheet layout. Dated UI, but it works and asks for nothing.
 - [imgkilo — passport photo maker](https://imgkilo.com/passport-photo-maker) 🔒 — Remove or whiten the background, crop to a country or exam spec, and frame the head correctly, in the browser. Includes US [2×2](https://imgkilo.com/passport-photo-2x2) and many exam presets.
 - [Quick Image Kit — passport photo upload compressor](https://quickimagekit.com/compress-photo-for-passport-upload) 🔒 — Compress passport-style upload photos locally for forms with file-size limits.
