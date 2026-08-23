@@ -35,6 +35,43 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
 - [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
 - [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
 - [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
 - [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
 
@@ -46,6 +83,91 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
 - [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
 - [Nutilz Image Converter](https://nutilz.com/image-converter) 🔒 — Converts JPG, PNG, WebP and BMP in the browser with a JPEG/WebP quality slider, before/after size comparison, and batch conversion to a ZIP. No upload.
+- [SammaPix — image converter](https://www.sammapix.com/convert) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+- [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
+- [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
+
+## Format conversion
+
+- [CloudConvert](https://cloudconvert.com) `$` — Converts between just about any image format and a lot of non-image ones too. Server-side, with an API and per-conversion pricing past the free quota.
+- [Convertio](https://convertio.co) `$` — Broad format support with a simple drop-and-go flow. Free tier caps file size and daily conversions. Uploads required.
+- [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
+- [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
+- [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+ — Convert between HEIC, WebP, AVIF, PNG, JPG, JXL and more in the browser, one file or a whole batch, without uploading. Open source (MIT).
 
 ## Resize & crop
 
@@ -59,7 +181,374 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
 - [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
 - [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
-- [remove.bg](https://www.remove.bg) `$` — The service that made one-click cutouts mainstream. Excellent on hair and edges. Free downloads are low resolution; full-res and API are paid.
+- [remove.bg](https://www.remove.bg) `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+- [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
+- [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
+
+## Format conversion
+
+- [CloudConvert](https://cloudconvert.com) `$` — Converts between just about any image format and a lot of non-image ones too. Server-side, with an API and per-conversion pricing past the free quota.
+- [Convertio](https://convertio.co) `$` — Broad format support with a simple drop-and-go flow. Free tier caps file size and daily conversions. Uploads required.
+- [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
+- [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
+- [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+- [Nutilz Image Converter](https://nutilz.com/image-converter) 🔒 — Converts JPG, PNG, WebP and BMP in the browser with a JPEG/WebP quality slider, before/after size comparison, and batch conversion to a ZIP. No upload.
+- [SammaPix — image converter](https://www.sammapix.com/convert) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+- [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
+- [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
+
+## Format conversion
+
+- [CloudConvert](https://cloudconvert.com) `$` — Converts between just about any image format and a lot of non-image ones too. Server-side, with an API and per-conversion pricing past the free quota.
+- [Convertio](https://convertio.co) `$` — Broad format support with a simple drop-and-go flow. Free tier caps file size and daily conversions. Uploads required.
+- [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
+- [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
+- [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+ — Convert between HEIC, WebP, AVIF, PNG, JPG, JXL and more in the browser, one file or a whole batch, without uploading. Open source (MIT).
+
+## Resize & crop
+
+- [Birme](https://www.birme.net) 🔒 — Bulk Resize Made Easy. Drop a folder, set one target size, drag each crop box, download a ZIP. All in the browser.
+- [iLoveIMG](https://www.iloveimg.com/resize-image) `$` — A full hosted suite for resize, crop and compress. Convenient, but your images go to their servers; free tier has limits.
+- [imgkilo — crop image](https://imgkilo.com/crop-image) 🔒 — Drag a box to crop to any aspect ratio or freeform, with a matching [circle crop](https://imgkilo.com/circle-crop) that exports a transparent PNG for avatars.
+- [imgkilo — resize in pixels](https://imgkilo.com/resize-image-in-pixels) 🔒 — Set exact width and height (or fit within a maximum) with the aspect ratio locked, in the browser.
+
+## Background removal
+
+- [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
+- [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
+- [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
+ — The service that made one-click cutouts mainstream. Excellent on hair and edges. Free downloads are low resolution; full-res and API are paid.
+- [SammaPix — remove background](https://www.sammapix.com/tools/remove-bg) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+- [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
+- [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
+
+## Format conversion
+
+- [CloudConvert](https://cloudconvert.com) `$` — Converts between just about any image format and a lot of non-image ones too. Server-side, with an API and per-conversion pricing past the free quota.
+- [Convertio](https://convertio.co) `$` — Broad format support with a simple drop-and-go flow. Free tier caps file size and daily conversions. Uploads required.
+- [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
+- [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
+- [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+- [Nutilz Image Converter](https://nutilz.com/image-converter) 🔒 — Converts JPG, PNG, WebP and BMP in the browser with a JPEG/WebP quality slider, before/after size comparison, and batch conversion to a ZIP. No upload.
+- [SammaPix — image converter](https://www.sammapix.com/convert) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+- [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [SammaPix — compress to a target size](https://www.sammapix.com/compress-to/2mb) 🔒 `OSS` `# Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of tools for compressing, converting, resizing, editing and inspecting images.
+
+There are hundreds of image utilities and most "best image tool" lists are just affiliate roundups. This one is opinionated. It leans toward tools that **run in your browser without uploading your files**, tools that are **open source**, and the handful of hosted services that are genuinely worth the trade-off. Freemium tools are marked so you know before you click.
+
+The list is intentionally small enough to maintain by hand. If a tool stops being free, changes its privacy model, or no longer deserves its spot, open an issue.
+
+**Legend**
+
+- 🔒 — Runs entirely in your browser. Files are never uploaded to a server.
+- `OSS` — Open source. Source link in the entry.
+- `$` — Has a paid tier. A usable free tier exists unless noted.
+
+## Contents
+
+- [Compression](#compression)
+- [Format conversion](#format-conversion)
+- [Resize & crop](#resize--crop)
+- [Background removal](#background-removal)
+- [Photo editors](#photo-editors)
+- [Metadata & EXIF](#metadata--exif)
+- [Passport & ID photos](#passport--id-photos)
+- [Batch processing](#batch-processing)
+- [SVG & vector](#svg--vector)
+- [Favicons & app icons](#favicons--app-icons)
+- [Color from images](#color-from-images)
+- [Developer tools](#developer-tools)
+- [Learn](#learn)
+- [Contributing](#contributing)
+
+## Compression
+
+- [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
+- [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
+ — Compress an image to an exact target such as 2 MB or 100 KB, with presets for dozens of sizes and batch to a ZIP. Runs on the canvas in your tab, MIT-licensed.
+- [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
+
+## Format conversion
+
+- [CloudConvert](https://cloudconvert.com) `$` — Converts between just about any image format and a lot of non-image ones too. Server-side, with an API and per-conversion pricing past the free quota.
+- [Convertio](https://convertio.co) `$` — Broad format support with a simple drop-and-go flow. Free tier caps file size and daily conversions. Uploads required.
+- [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
+- [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
+- [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+ — Convert between HEIC, WebP, AVIF, PNG, JPG, JXL and more in the browser, one file or a whole batch, without uploading. Open source (MIT).
+
+## Resize & crop
+
+- [Birme](https://www.birme.net) 🔒 — Bulk Resize Made Easy. Drop a folder, set one target size, drag each crop box, download a ZIP. All in the browser.
+- [iLoveIMG](https://www.iloveimg.com/resize-image) `$` — A full hosted suite for resize, crop and compress. Convenient, but your images go to their servers; free tier has limits.
+- [imgkilo — crop image](https://imgkilo.com/crop-image) 🔒 — Drag a box to crop to any aspect ratio or freeform, with a matching [circle crop](https://imgkilo.com/circle-crop) that exports a transparent PNG for avatars.
+- [imgkilo — resize in pixels](https://imgkilo.com/resize-image-in-pixels) 🔒 — Set exact width and height (or fit within a maximum) with the aspect ratio locked, in the browser.
+
+## Background removal
+
+- [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
+- [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
+- [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
+ — One-click background removal in the browser with no watermark. The cutout runs locally, so the image never leaves your device.
 
 ## Photo editors
 
