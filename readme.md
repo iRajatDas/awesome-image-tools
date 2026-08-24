@@ -87,6 +87,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 - [imgkilo — bulk compressor & converter](https://imgkilo.com/bulk-image-compressor) 🔒 — Drop a whole folder to compress, [convert](https://imgkilo.com/bulk-image-converter) or [resize](https://imgkilo.com/resize-multiple-images) every file at once and get a ZIP back, without uploading the batch.
 - [ImageMagick `mogrify`](https://imagemagick.org/script/mogrify.php) `OSS` — Batch-edits images in place from one command: resize, convert, strip, or apply an effect to a whole directory.
+- [MarketPack](https://softpeanut.github.io/marketpack/) 🔒 — Resizes up to three product photos into marketplace presets and downloads them in one ZIP; processing stays local.
 - [XnConvert](https://www.xnview.com/en/xnconvert/) — Free desktop batch processor: queue hundreds of files, chain multiple actions, and save the recipe to reuse. Handy when the same transform runs every week.
 
 ## SVG & vector
