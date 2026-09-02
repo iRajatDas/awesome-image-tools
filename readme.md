@@ -75,6 +75,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [ExifTool](https://exiftool.org) `OSS` — Phil Harvey's command-line tool, the definitive way to read, write and strip metadata across every format and maker note that exists. The ground truth other tools are checked against.
 - [imgkilo — EXIF viewer & remover](https://imgkilo.com/view-exif-data) 🔒 — Read the camera, date and GPS a photo carries, then [strip it](https://imgkilo.com/remove-exif-data) to a clean copy before sharing. Both run locally, which is the point when the data is your location.
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/) — A thorough online EXIF reader that surfaces fields most viewers skip, including a map for GPS tags. Uploads the file to read it, so use it on images you do not mind sharing.
+- [Refentra — edit image metadata](https://refentra.com/tools/edit-image-metadata/) 🔒 — Edit five JPEG EXIF text fields without re-encoding the image; GPS and other read-only metadata are preserved and verified locally.
 - [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/) `OSS` — Android app that strips metadata from photos straight in the system share sheet, before they go to a chat or post.
 
 ## Passport & ID photos
