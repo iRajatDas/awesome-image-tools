@@ -99,6 +99,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Favicons & app icons
 
 - [favicon.io](https://favicon.io) — Generates a favicon from text, an emoji, or an uploaded image. Fast and free for the common case.
+- [imagenimble — favicon generator](https://imagenimble.com/favicon-generator) 🔒 — Turns one square image into a multi-size `.ico` plus 32, 180 and 512 px PNGs in a single download. Renders on the canvas in your tab, so nothing is uploaded; free with ads.
 - [RealFaviconGenerator](https://realfavicongenerator.net) — Produces the full set of icons and the markup for every platform, and checks how they render across browsers and devices. The thorough option.
 
 ## Color from images
