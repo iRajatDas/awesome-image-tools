@@ -68,6 +68,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Krita](https://krita.org) `OSS` — Open-source painting and illustration studio. Built for digital art and brushwork, but a capable raster editor in general.
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
+- [PhotoRestore](https://photorestore.io/) — AI restoration for old, damaged, and faded photos (scratches, tears, colorize, enhance, upscale). Upload required; free, no sign-up.
 - [Pixlr](https://pixlr.com) `$` — Browser editors (Pixlr X for quick edits, Pixlr E for advanced) with a familiar layout. Free tier is ad-supported.
 
 ## Metadata & EXIF
