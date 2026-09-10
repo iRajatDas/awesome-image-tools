@@ -32,6 +32,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Compression
 
 - [Caesium](https://saerasoft.com/caesium) `OSS` — Desktop compressor for Windows with a clear quality slider and side-by-side preview. Good for compressing a folder of photos in one pass.
+- [Filewhisk — compress to target size](https://filewhisk.com/compress-image-to-target-size/) 🔒 — Searches for the quality setting that lands under an exact KB target (100 KB, 500 KB, any value); the same site has 20+ other browser-based image tools (resize, format conversion, EXIF removal, favicons).
 - [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
 - [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
 - [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
