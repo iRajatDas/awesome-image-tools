@@ -109,6 +109,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 ## Developer tools
 
+- [Image to ASCII](https://imagetoascii.art/) 🔒 — Converts JPG, PNG, WebP and the first frame of GIFs into character art in the browser for READMEs or terminal graphics; exports TXT, PNG and SVG.
 - [Image2Base64](https://image2base64.com/) 🔒 — Convert PNG, JPG, GIF, WebP, SVG, BMP and ICO images to Base64 data URIs and ready-to-paste HTML/CSS snippets entirely in the browser.
 - [imgproxy](https://imgproxy.net) `OSS` `$` — A fast, secure standalone server for resizing and converting images on the fly behind a URL. Open-source core with a paid Pro tier.
 - [libvips](https://www.libvips.org) `OSS` — A low-memory, high-speed image processing library. The engine under sharp and many CMS thumbnailers; reaches for it directly when throughput matters.
