@@ -100,6 +100,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 - [favicon.io](https://favicon.io) — Generates a favicon from text, an emoji, or an uploaded image. Fast and free for the common case.
 - [RealFaviconGenerator](https://realfavicongenerator.net) — Produces the full set of icons and the markup for every platform, and checks how they render across browsers and devices. The thorough option.
+- [Piczilo Favicon Generator](https://piczilo.com/generate/favicon) — Generate website favicons from an image in your browser.
 
 ## Color from images
 
