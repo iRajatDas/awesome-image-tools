@@ -69,6 +69,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
 - [Pixlr](https://pixlr.com) `$` — Browser editors (Pixlr X for quick edits, Pixlr E for advanced) with a familiar layout. Free tier is ad-supported.
+- [Stunna Browser Photo Tools](https://stunna-app.com/tools) 🔒 — Free local-browser film/digicam filters (20 MB input, up to 3000 px export) and photo strips, without signup or watermarks; the separate mobile app offers paid Pro.
 
 ## Metadata & EXIF
 
