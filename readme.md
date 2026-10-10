@@ -35,6 +35,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Image Compressor](https://imagecompressor.com) 🔒 — Bulk JPG/PNG/WebP/GIF/SVG compression with a per-image quality slider, so you can push each one as far as it goes without visible artifacts.
 - [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
 - [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
+- [ImgKit](https://imgkit.xyz) 🔒 — Compress to an exact file size (20 KB, 50 KB, 100 KB) or by quality, for JPG, PNG, WebP, AVIF and HEIC. Also converts and resizes. Free with no account; files up to 50 MB.
 - [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
 - [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
 
