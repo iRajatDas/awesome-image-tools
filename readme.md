@@ -67,7 +67,6 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [GIMP](https://www.gimp.org) `OSS` — The long-standing free desktop alternative to Photoshop. Layers, masks, curves, scripting, the lot. Steep but complete.
 - [Krita](https://krita.org) `OSS` — Open-source painting and illustration studio. Built for digital art and brushwork, but a capable raster editor in general.
 - [Local Watermark Cleanup](https://localwatermarkcleanup.com/) 🔒 — Manually repairs a small, user-selected visible area in an authorized static image locally; no upload, account, batch, or video processing.
-  - 
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
 - [Pixlr](https://pixlr.com) `$` — Browser editors (Pixlr X for quick edits, Pixlr E for advanced) with a familiar layout. Free tier is ad-supported.
