@@ -1,4 +1,7 @@
+Krita
 # Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Local Watermark Cleanup](https://localwatermarkcleanup.com/) 🔒 — Manually repairs a small, user-selected visible area in an authorized static image locally; no upload, account, batch, or video processing.
+- 
 
 > A curated list of tools for compressing, converting, resizing, editing and inspecting images.
 
