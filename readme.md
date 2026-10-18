@@ -99,6 +99,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Favicons & app icons
 
 - [favicon.io](https://favicon.io) — Generates a favicon from text, an emoji, or an uploaded image. Fast and free for the common case.
+- [pngtoicotool](https://pngtoicotool.com/) 🔒 — Converts PNG, JPG, GIF and WebP images to ICO in the browser without uploading the selected file.
 - [RealFaviconGenerator](https://realfavicongenerator.net) — Produces the full set of icons and the markup for every platform, and checks how they render across browsers and devices. The thorough option.
 
 ## Color from images
