@@ -98,6 +98,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 ## Favicons & app icons
 
+- [ConvertKind PNG to ICO](https://convertkind.com/png-to-ico/) 🔒 — Builds a multi-size .ico favicon (16 to 256 px) from a PNG in your browser with no upload; outputs the .ico file only, not a full app-icon set or HTML markup.
 - [favicon.io](https://favicon.io) — Generates a favicon from text, an emoji, or an uploaded image. Fast and free for the common case.
 - [RealFaviconGenerator](https://realfavicongenerator.net) — Produces the full set of icons and the markup for every platform, and checks how they render across browsers and devices. The thorough option.
 
