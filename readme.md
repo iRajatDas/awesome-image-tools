@@ -57,6 +57,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Background removal
 
 - [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
+- [OmniKit Background Remover](https://omnikit.tech/en/background-remover) 🔒 `OSS` — In-browser neural segmentation (U2-Net INT8 ONNX) for transparent cutouts with full-resolution export and zero server uploads. Source on [GitHub](https://github.com/Morendais/omnikit).
 - [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
 - [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
 - [remove.bg](https://www.remove.bg) `$` — The service that made one-click cutouts mainstream. Excellent on hair and edges. Free downloads are low resolution; full-res and API are paid.
