@@ -92,6 +92,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## SVG & vector
 
 - [imgkilo — SVG to PNG](https://imgkilo.com/convert-svg-to-png-online) 🔒 — Rasterize a vector SVG to a PNG at any pixel size you choose, in the browser.
+- [Pic2Vector](https://pic2vector.com/) 🔒 — Traces PNG, JPG and WebP images into SVG with vtracer compiled to WebAssembly, with full color, black & white and posterize modes. Free, no signup; works best on logos, icons and flat art.
 - [SVGO](https://github.com/svg/svgo) `OSS` — The Node-based SVG optimizer. Strips editor cruft and shrinks files, scriptable and pluggable, the engine most other SVG optimizers wrap.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) 🔒 `OSS` — Jake Archibald's GUI for SVGO. Toggle each optimization with a live preview and size readout. Entirely client-side.
 - [Vectorizer.ai](https://vectorizer.ai) `$` — Traces a raster image (logo, sketch) into a clean SVG with surprisingly good results. Free preview, paid full-resolution downloads.
