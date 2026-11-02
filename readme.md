@@ -50,6 +50,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Resize & crop
 
 - [Birme](https://www.birme.net) 🔒 — Bulk Resize Made Easy. Drop a folder, set one target size, drag each crop box, download a ZIP. All in the browser.
+- [Circle Crop Image](https://circlecropimage.app) 🔒 — Crop any photo to a perfect circle and download a transparent PNG for avatars, entirely in the browser with no upload or sign-up.
 - [iLoveIMG](https://www.iloveimg.com/resize-image) `$` — A full hosted suite for resize, crop and compress. Convenient, but your images go to their servers; free tier has limits.
 - [imgkilo — crop image](https://imgkilo.com/crop-image) 🔒 — Drag a box to crop to any aspect ratio or freeform, with a matching [circle crop](https://imgkilo.com/circle-crop) that exports a transparent PNG for avatars.
 - [imgkilo — resize in pixels](https://imgkilo.com/resize-image-in-pixels) 🔒 — Set exact width and height (or fit within a maximum) with the aspect ratio locked, in the browser.
