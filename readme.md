@@ -69,6 +69,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
 - [Pixlr](https://pixlr.com) `$` — Browser editors (Pixlr X for quick edits, Pixlr E for advanced) with a familiar layout. Free tier is ad-supported.
+- [RemixThatPhoto](https://remixthatphoto.com/) `$` — Edits uploaded photos with AI modes for restyling, object removal and restoration; the trial allows up to three standard edits per day, subject to capacity.
 
 ## Metadata & EXIF
 
