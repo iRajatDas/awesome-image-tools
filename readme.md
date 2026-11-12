@@ -99,6 +99,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Favicons & app icons
 
 - [favicon.io](https://favicon.io) — Generates a favicon from text, an emoji, or an uploaded image. Fast and free for the common case.
+- [PixelKit — favicon generator](https://pixelkit-studio.pages.dev/tools/favicon-generator/) 🔒 — Renders the 16 to 512 px PNGs, a multi-size favicon.ico, a web manifest and the link tags from one image, and downloads them as a ZIP. Pad or fill, padding and background options.
 - [RealFaviconGenerator](https://realfavicongenerator.net) — Produces the full set of icons and the markup for every platform, and checks how they render across browsers and devices. The thorough option.
 
 ## Color from images
