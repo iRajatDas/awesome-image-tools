@@ -88,6 +88,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [imgkilo — bulk compressor & converter](https://imgkilo.com/bulk-image-compressor) 🔒 — Drop a whole folder to compress, [convert](https://imgkilo.com/bulk-image-converter) or [resize](https://imgkilo.com/resize-multiple-images) every file at once and get a ZIP back, without uploading the batch.
 - [ImageMagick `mogrify`](https://imagemagick.org/script/mogrify.php) `OSS` — Batch-edits images in place from one command: resize, convert, strip, or apply an effect to a whole directory.
 - [XnConvert](https://www.xnview.com/en/xnconvert/) — Free desktop batch processor: queue hundreds of files, chain multiple actions, and save the recipe to reuse. Handy when the same transform runs every week.
+- [Logrun Lab Product Image Batch](https://logrunlab.com/en/product-image-batch) 🔒 — Batch-resize up to 200 product images with marketplace presets, Fit/Fill framing and ZIP export, entirely in the browser.
 
 ## SVG & vector
 
