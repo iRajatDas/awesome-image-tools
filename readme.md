@@ -50,6 +50,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 ## Resize & crop
 
 - [Birme](https://www.birme.net) 🔒 — Bulk Resize Made Easy. Drop a folder, set one target size, drag each crop box, download a ZIP. All in the browser.
+- [ExpandMyImage — Resize Image Without Cropping](https://expandmyimage.com/resize-image-without-cropping) 🔒 — Fits any photo into Instagram (4:5, 1:1), TikTok/Reels (9:16), 3:4, Pinterest (2:3), or YouTube (16:9) frames using blurred, white, or custom solid backgrounds in the browser (up to 40 MB, JPEG/PNG export, no upload); the main site offers paid AI outpainting separately.
 - [iLoveIMG](https://www.iloveimg.com/resize-image) `$` — A full hosted suite for resize, crop and compress. Convenient, but your images go to their servers; free tier has limits.
 - [imgkilo — crop image](https://imgkilo.com/crop-image) 🔒 — Drag a box to crop to any aspect ratio or freeform, with a matching [circle crop](https://imgkilo.com/circle-crop) that exports a transparent PNG for avatars.
 - [imgkilo — resize in pixels](https://imgkilo.com/resize-image-in-pixels) 🔒 — Set exact width and height (or fit within a maximum) with the aspect ratio locked, in the browser.
