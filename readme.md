@@ -36,6 +36,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [ImageOptim](https://imageoptim.com) `OSS` — Mac drag-and-drop that strips junk metadata and runs several optimizers losslessly. The standard for shrinking images before they ship to a website.
 - [imgkilo — compress to a target KB](https://imgkilo.com/compress-image-to-kb-size) 🔒 — Compress to a precise size like "under 100 KB", which is what government and job portals demand. Runs on the canvas in your tab.
 - [Squoosh](https://squoosh.app) 🔒 `OSS` — The reference client-side compressor from the Chrome team. Live before/after slider, every modern codec via WebAssembly, and a real-time size readout. Start here.
+- [TinyMast](https://tinymast.com/image-compress/) — Compress up to 100 JPG/PNG/WebP/GIF images per batch to a target KB you set, then download them individually or as a ZIP. Free with no signup; files are uploaded and deleted within 24 hours.
 - [TinyPNG](https://tinypng.com) `$` — Smart lossy compression for PNG, JPG and WebP. The free web drop handles 20 files at a time; the API is paid. Uploads to their servers.
 
 ## Format conversion
