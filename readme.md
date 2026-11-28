@@ -106,6 +106,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [Adobe Color](https://color.adobe.com/create/image) — Extract a color theme from any photo and tweak the harmony rules. Free with an Adobe account.
 - [Coolors](https://coolors.co/image-picker) `$` — Generate a palette from an uploaded image and lock the colors you like. Free to use; pro unlocks extras.
 - [Image Color Picker](https://imagecolorpicker.com) — Upload an image and click anywhere to read the exact hex, RGB and HSL. The quickest "what color is that pixel" tool.
+- [MyOnlineImages — color palette extractor](https://myonlineimages.top/tools/image-color-palette-extractor/) 🔒 — Extract 5–12 dominant HEX/RGB colors from any photo on a local canvas and copy CSS custom properties with no uploads or account.
 
 ## Developer tools
 
